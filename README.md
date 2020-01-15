@@ -7,7 +7,8 @@ The application connects to a backend (https://github.com/juanvl/instanode) that
 
 Also there is a web version of this project: https://github.com/juanvl/instawebclone
 
-App Screenshots:
+<br/>
+<b>Screenshots:</b>
 
 <div style="float: left">
   <img src="./preview/new-post.png" width="340" height="600" />
